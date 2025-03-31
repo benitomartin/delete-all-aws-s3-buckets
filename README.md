@@ -5,6 +5,11 @@
 
 A bash script to safely delete all S3 buckets and their contents from your AWS account, including versioned objects and delete markers.
 
+You can read the blog related to the repository in:
+
+- [DEV](https://dev.to/aws-builders/how-to-safely-delete-all-aws-s3-buckets-using-a-bash-script-1og2)
+- [Medium](https://medium.com/@benitomartin/how-to-safely-delete-all-aws-s3-buckets-using-a-bash-script-a327d58fbc20)
+
 ## ⚠️ WARNING
 
 This script will **permanently delete** all S3 buckets and their contents from your AWS account. This action is:
