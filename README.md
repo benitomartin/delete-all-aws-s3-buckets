@@ -1,0 +1,1 @@
+# delete-all-aws-s3-buckets
